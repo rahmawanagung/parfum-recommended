@@ -10,7 +10,7 @@ Perfume Recommended System is a state-of-the-art platform designed to provide pe
 
 ### Live Demo
 
-[[Live Demo]](https://example.com)
+[[Live Demo]](https://perfume-recommended.streamlit.app/)
 
 ## ✨ Key Features
 
@@ -22,7 +22,7 @@ Perfume Recommended System is a state-of-the-art platform designed to provide pe
 
 ### Prerequisites
 
-- Python >= 3.8
+- Python >= 3.13
 - Jupyter Notebook
 
 ### Installation
@@ -115,7 +115,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### Contact Information
 
-For any questions or feedback, please contact [rahmawanagung](mailto:rahmawanagung@example.com).
+For any questions or feedback, please contact [rahmawanagung](mailto:agungedi001@gmail.com).
 
 ---
 
