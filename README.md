@@ -1,10 +1,3 @@
-```markdown
-# 🌸 perfume-recommended-system 🌸
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Perfume+Recommended+System;A+Cutting-Edge+Project;Professional;Modern;Open+Source)](https://github.com/rahmawanagung/perfume-recommended-system)
-
----
-
 ## 🎯 Project Overview
 
 Perfume Recommended System is a state-of-the-art platform designed to provide personalized perfume recommendations based on advanced data analytics and machine learning techniques. Whether you're a perfume enthusiast or a professional in the cosmetics industry, this system offers you the best in fragrance recommendations.
